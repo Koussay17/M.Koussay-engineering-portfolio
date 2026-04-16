@@ -19,35 +19,36 @@ My academic profile is built around:
 ## Portfolio Architecture
 
 ### Aerospace Flow Physics
-- [High-Lift Devices / Flaps](./aerospace/high-lift-devices-flaps.pdf)
-- [Cylinder Wake – Aerodynamic Coefficients](./aerospace/cylinder-wake-aerodynamic-coefficients.pdf)
-- [Nozzle Study](./aerospace/nozzle-study.pdf)
+- [High-Lift Devices / Flaps](./aerospace-flow-physics/high-lift-devices-flaps.pdf)
+- [Cylinder Wake – Aerodynamic Coefficients](./aerospace-flow-physics/cylinder-wake-aerodynamic-coefficients.pdf)
+- [Nozzle Study](./aerospace-flow-physics/nozzle-study.pdf)
 
 ### Advanced Fluid & Thermal Sciences
-- [Singular Pressure Losses and Flow Measurement](./fluid-mechanics/singular-pressure-losses-and-flow-measurement.pdf)
-- [Transition to Turbulence and Friction Factor](./fluid-mechanics/transition-to-turbulence-and-friction-factor.pdf)
-- [Crossflow Heat Exchangers](./fluid-mechanics/crossflow-heat-exchangers.pdf)
+- [Singular Pressure Losses and Flow Measurement](./advanced-fluid-thermal-sciences/singular-pressure-losses-and-flow-measurement.pdf)
+- [Transition to Turbulence and Friction Factor](./advanced-fluid-thermal-sciences/transition-to-turbulence-and-friction-factor.pdf)
+- [Crossflow Heat Exchangers](./advanced-fluid-thermal-sciences/crossflow-heat-exchangers.pdf)
 
 ### Dynamics, Control & Physical Systems
-- [Automatic Control – Home I/O / Simulink](./control-systems/automatic-control-homeio-simulink.pdf)
-- [Interdistance Regulation](./control-systems/interdistance-regulation.pdf)
+- [Automatic Control – Home I/O / Simulink](./dynamics-control-physical-systems/automatic-control-homeio-simulink.pdf)
+- [Interdistance Regulation](./dynamics-control-physical-systems/interdistance-regulation.pdf)
 
 ### Energetics, Fields & Measurement Systems
-- [Three-Phase Measurements and Energy Assessment](./electrical-engineering/three-phase-measurements-energy-assessment.pdf)
+- [Three-Phase Measurements and Energy Assessment](./energetics-fields-measurement-systems/three-phase-measurements-energy-assessment.pdf)
 
 ### Signals, Communication & Applied Physical Investigation
-- [Telecommunication ESE Project](./telecommunications/telecommunication-ese-project.pdf)
+- [Telecommunication ESE Project](./signals-communication-physical-investigation/telecommunication-ese-project.pdf)
 
 ### Solid Mechanics & Geometric Reasoning
-- [Cone Revolution](./mechanics/cone-revolution.pdf)
-- [Rolling Mobile](./mechanics/rolling-mobile.pdf)
-- [Bicone Experiment](./mechanics/bicone-experiment.pdf)
+- [Cone Revolution](./solid-mechanics-geometric-reasoning/cone-revolution.pdf)
+- [Rolling Mobile](./solid-mechanics-geometric-reasoning/rolling-mobile.pdf)
+- [Bicone Experiment](./solid-mechanics-geometric-reasoning/bicone-experiment.pdf)
 
 ### Scientific Computing & Numerical Methods
-- [Polynomial Interpolation](./numerical-methods/interpolation-polynomiale.ipynb)
-- [Iterative Methods](./numerical-methods/iterative-methods.ipynb)
-- [Linear Systems Resolution](./numerical-methods/linear-systems-resolution.ipynb)
+- [Polynomial Interpolation](./scientific-computing-numerical-methods/polynomial-interpolation.ipynb)
+- [Iterative Methods](./scientific-computing-numerical-methods/iterative-methods.ipynb)
+- [Linear Systems Resolution](./scientific-computing-numerical-methods/linear-systems-resolution.ipynb)
 
+  
 ## Main Theoretical Axes
 
 - Continuum mechanics
