@@ -18,6 +18,11 @@ My academic profile is built around:
 
 ## Portfolio Architecture
 
+### Theoretical Physics & Cosmology
+- [Cosmological Bounce in String Quantum Gravity](./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf.pdf)
+
+Advanced theoretical work on cosmological singularity resolution, string-inspired quantum gravity, T-duality, effective string actions, and non-singular bounce cosmology.
+
 ### Aerospace Flow Physics
 - [Cylinder Wake – Aerodynamic Coefficients](./aerospace-flow-physics/cylinder-wake-aerodynamic-coefficients.pdf.pdf)
 - [Nozzle Study](./aerospace-flow-physics/nozzle-study.pdf.pdf)
