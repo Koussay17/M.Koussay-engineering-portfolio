@@ -69,7 +69,7 @@ The work is structured around the following theoretical ingredients:
 - effective string cosmology,
 - T-duality,
 - dilaton dynamics,
-- \(\alpha'\) high-curvature corrections,
+- α′ high-curvature corrections,
 - modified cosmological equations,
 - proper-time deformation through the bounce. 
 
