@@ -104,7 +104,7 @@ R
 $$
 
 This is the central theoretical starting point of the work.  
-It describes an effective cosmological model where curvature, the dilaton field, and string-scale corrections all contribute to the dynamics. The crucial point is that the \(\alpha'\) sector introduces high-curvature corrections that become relevant near the bounce. 
+It describes an effective cosmological model where curvature, the dilaton field, and string-scale corrections all contribute to the dynamics. The crucial point is that the α′ sector introduces high-curvature corrections that become relevant near the bounce. 
 
 ---
 
@@ -129,7 +129,7 @@ H=\dot\lambda=\frac{\dot a}{a},
 $$
 
 These variables are introduced to express the cosmological system in a compact and physically interpretable way.  
-The Hubble parameter \(H\) tracks the expansion rate, while the shifted dilaton \(\bar{\Phi}\) packages the coupling between geometry and dilaton evolution.
+The Hubble parameter \(H\) tracks the expansion rate, while the shifted dilaton Φ̄ packages the coupling between geometry and dilaton evolution.
 ---
 
 ### 4. Corrected cosmological equations
@@ -170,7 +170,7 @@ d\tau = e^{-\Phi/2}\,dt
 $$
 
 This is one of the most interesting physical relations in the work.  
-It expresses the difference between the cosmological time parameter \(t\) and the Einstein-frame proper time \(\tau\).  
+It expresses the difference between the cosmological time parameter \(t\) and the Einstein-frame proper time τ.  
 Near the bounce, the evolution of the dilaton modifies the rate at which physical time flows, which gives a physically meaningful interpretation of the bounce beyond geometry alone.
 ---
 
