@@ -19,12 +19,13 @@ My academic profile is built around:
 ## Portfolio Architecture
 
 ### Aerospace Flow Physics
-- [High-Lift Devices / Flaps](./aerospace-flow-physics/high-lift-devices-flaps.pdf.pdf)
-- [Cylinder Wake – Aerodynamic Coefficients](./aerospace-flow-physics/cylinder-wake-aerodynamic-coefficients.pdf.pdf)
 - [Nozzle Study](./aerospace-flow-physics/nozzle-study.pdf.pdf)
+- [Cylinder Wake – Aerodynamic Coefficients](./aerospace-flow-physics/cylinder-wake-aerodynamic-coefficients.pdf.pdf)
+- [Singular Pressure Losses and Flow Measurement](./advanced-fluid-thermal-sciences/singular-pressure-losses-and-flow-measurement.pdf.pdf)
+- [High-Lift Devices / Flaps](./aerospace-flow-physics/high-lift-devices-flaps.pdf.pdf)
+
 
 ### Advanced Fluid & Thermal Sciences
-- [Singular Pressure Losses and Flow Measurement](./advanced-fluid-thermal-sciences/singular-pressure-losses-and-flow-measurement.pdf.pdf)
 - [Transition to Turbulence and Friction Factor](./advanced-fluid-thermal-sciences/transition-to-turbulence-and-friction-factor.pdf.pdf)
 - [Crossflow Heat Exchangers](./advanced-fluid-thermal-sciences/crossflow-heat-exchangers.pdf.pdf)
 
