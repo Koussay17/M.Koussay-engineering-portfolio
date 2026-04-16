@@ -63,7 +63,7 @@ Advanced theoretical work on cosmological singularity resolution, string-inspire
 > Research-oriented theoretical work on non-singular early-universe cosmology, string-inspired quantum gravity, T-duality, effective string actions, and high-curvature dynamics.
 
 This paper studies a central problem in theoretical cosmology: the classical Big Bang picture leads to an initial singularity, meaning that curvature and density diverge and the classical description breaks down.  
-The objective of this work is to investigate whether this singular origin can be replaced by a **non-singular cosmological bounce** in a **string-inspired quantum-gravity framework**, where the Universe passes from contraction to expansion through a regulated high-curvature phase rather than an infinite breakdown. :contentReference[oaicite:1]{index=1}
+The objective of this work is to investigate whether this singular origin can be replaced by a **non-singular cosmological bounce** in a **string-inspired quantum-gravity framework**, where the Universe passes from contraction to expansion through a regulated high-curvature phase rather than an infinite breakdown. 
 
 The work is structured around the following theoretical ingredients:
 - effective string cosmology,
@@ -71,7 +71,7 @@ The work is structured around the following theoretical ingredients:
 - dilaton dynamics,
 - \(\alpha'\) high-curvature corrections,
 - modified cosmological equations,
-- proper-time deformation through the bounce. :contentReference[oaicite:2]{index=2}
+- proper-time deformation through the bounce. 
 
 ### ✦ What is actually studied
 
@@ -81,10 +81,9 @@ It focuses on a precise theoretical question:
 - how to encode string-inspired corrections into cosmological dynamics,
 - how the dilaton modifies the evolution,
 - how the corrected equations avoid a singular behavior,
-- and how the notion of proper time changes across the bounce regime. :contentReference[oaicite:3]{index=3}
+- and how the notion of proper time changes across the bounce regime.
 
-In other words, the paper studies a cosmological model in which the earliest phase of the Universe is governed not only by classical expansion laws, but by a corrected effective dynamics capable of regularizing the transition itself. :contentReference[oaicite:4]{index=4}
-
+In other words, the paper studies a cosmological model in which the earliest phase of the Universe is governed not only by classical expansion laws, but by a corrected effective dynamics capable of regularizing the transition itself. 
 ---
 
 ## ✦ Core Equations of the Work
@@ -105,7 +104,7 @@ R
 $$
 
 This is the central theoretical starting point of the work.  
-It describes an effective cosmological model where curvature, the dilaton field, and string-scale corrections all contribute to the dynamics. The crucial point is that the \(\alpha'\) sector introduces high-curvature corrections that become relevant near the bounce. :contentReference[oaicite:5]{index=5}
+It describes an effective cosmological model where curvature, the dilaton field, and string-scale corrections all contribute to the dynamics. The crucial point is that the \(\alpha'\) sector introduces high-curvature corrections that become relevant near the bounce. 
 
 ---
 
@@ -116,8 +115,7 @@ ds^2 = -dt^2 + a(t)^2\,d\vec{x}^{\,2}
 $$
 
 The model is then specialized to a flat homogeneous and isotropic cosmological background.  
-The function \(a(t)\) is the scale factor, and it controls the global contraction/expansion behavior of the Universe. :contentReference[oaicite:6]{index=6}
-
+The function \(a(t)\) is the scale factor, and it controls the global contraction/expansion behavior of the Universe. 
 ---
 
 ### 3. Variables used to rewrite the dynamics
@@ -131,8 +129,7 @@ H=\dot\lambda=\frac{\dot a}{a},
 $$
 
 These variables are introduced to express the cosmological system in a compact and physically interpretable way.  
-The Hubble parameter \(H\) tracks the expansion rate, while the shifted dilaton \(\bar{\Phi}\) packages the coupling between geometry and dilaton evolution. :contentReference[oaicite:7]{index=7}
-
+The Hubble parameter \(H\) tracks the expansion rate, while the shifted dilaton \(\bar{\Phi}\) packages the coupling between geometry and dilaton evolution.
 ---
 
 ### 4. Corrected cosmological equations
@@ -148,8 +145,7 @@ $$
 These are the main corrected evolution equations of the work.  
 The first is the effective constraint equation.  
 The second governs the evolution of the shifted dilaton.  
-The key feature is that the \(\alpha'\)-dependent nonlinear terms modify the classical high-curvature behavior and open the door to a non-singular bounce. :contentReference[oaicite:8]{index=8}
-
+The key feature is that the \(\alpha'\)-dependent nonlinear terms modify the classical high-curvature behavior and open the door to a non-singular bounce.
 ---
 
 ### 5. Tree-level limit of the system
@@ -163,7 +159,7 @@ $$
 $$
 
 These equations correspond to the lower-order regime before the full high-curvature corrections dominate.  
-They help show what the uncorrected string cosmology would look like, and therefore what is genuinely changed by the corrected dynamics. :contentReference[oaicite:9]{index=9}
+They help show what the uncorrected string cosmology would look like, and therefore what is genuinely changed by the corrected dynamics.
 
 ---
 
@@ -175,8 +171,7 @@ $$
 
 This is one of the most interesting physical relations in the work.  
 It expresses the difference between the cosmological time parameter \(t\) and the Einstein-frame proper time \(\tau\).  
-Near the bounce, the evolution of the dilaton modifies the rate at which physical time flows, which gives a physically meaningful interpretation of the bounce beyond geometry alone. :contentReference[oaicite:10]{index=10}
-
+Near the bounce, the evolution of the dilaton modifies the rate at which physical time flows, which gives a physically meaningful interpretation of the bounce beyond geometry alone.
 ---
 
 ### 7. Compact form of the bounce constraint
@@ -187,8 +182,7 @@ $$
 $$
 
 This compact form makes the competition between expansion, dilaton evolution, and high-curvature corrections especially clear.  
-It condenses the structure of the bounce mechanism into a single expression: the corrected dynamics are no longer purely Einsteinian, and the singular regime can be regularized. :contentReference[oaicite:11]{index=11}
-
+It condenses the structure of the bounce mechanism into a single expression: the corrected dynamics are no longer purely Einsteinian, and the singular regime can be regularized.
 ---
 
 ## ✦ Physical Interpretation
@@ -200,13 +194,13 @@ The physical picture is the following:
 - the effective dynamics are corrected by string-scale contributions,
 - the dilaton becomes dynamically relevant,
 - time itself is no longer trivially identified across frames,
-- and the contraction-to-expansion transition becomes mathematically describable without infinite breakdown. :contentReference[oaicite:12]{index=12}
+- and the contraction-to-expansion transition becomes mathematically describable without infinite breakdown. 
 
 This makes the work a genuinely research-oriented study in:
 - theoretical cosmology,
 - gravitational physics,
 - effective string dynamics,
-- and mathematically grounded early-universe modeling. :contentReference[oaicite:13]{index=13}
+- and mathematically grounded early-universe modeling. 
 
 ---
 
@@ -218,8 +212,7 @@ It combines:
 - action-based modeling,
 - nontrivial cosmological interpretation,
 - string-inspired corrections,
-- and a physically meaningful treatment of the singularity problem. :contentReference[oaicite:14]{index=14}
-
+- and a physically meaningful treatment of the singularity problem.
 [Read the paper](./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf.pdf)
 
 ---
