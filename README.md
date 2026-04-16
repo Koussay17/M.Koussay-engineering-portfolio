@@ -19,8 +19,8 @@ My academic profile is built around:
 ## Portfolio Architecture
 
 ### Aerospace Flow Physics
-- [Nozzle Study](./aerospace-flow-physics/nozzle-study.pdf.pdf)
 - [Cylinder Wake – Aerodynamic Coefficients](./aerospace-flow-physics/cylinder-wake-aerodynamic-coefficients.pdf.pdf)
+- [Nozzle Study](./aerospace-flow-physics/nozzle-study.pdf.pdf)
 - [Singular Pressure Losses and Flow Measurement](./advanced-fluid-thermal-sciences/singular-pressure-losses-and-flow-measurement.pdf.pdf)
 - [High-Lift Devices / Flaps](./aerospace-flow-physics/high-lift-devices-flaps.pdf.pdf)
 
