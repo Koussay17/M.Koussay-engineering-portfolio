@@ -28,7 +28,7 @@ My academic profile is built around:
 ### Advanced Fluid & Thermal Sciences
 - [Transition to Turbulence and Friction Factor](./advanced-fluid-thermal-sciences/transition-to-turbulence-and-friction-factor.pdf.pdf)
 - [Crossflow Heat Exchangers](./advanced-fluid-thermal-sciences/crossflow-heat-exchangers.pdf.pdf)
-- [Savonius Rotor – Dimensional Analysis and CFD Reproduction](./advanced-fluid-thermal-sciences/dimensional-analysis-similitude-savonius-rotor.pdf)
+- [Savonius Rotor – Dimensional Analysis and CFD Reproduction](./advanced-fluid-thermal-sciences/dimensional-analysis-similitude-savonius-rotor.pdf.pdf)
 
 ### Dynamics, Control & Physical Systems
 - [Automatic Control – Home I/O / Simulink](./dynamics-control-physical-systems/automatic-control-homeio-simulink.pdf.pdf)
