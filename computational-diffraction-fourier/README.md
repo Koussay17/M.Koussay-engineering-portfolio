@@ -1,74 +1,84 @@
 # Tensor-Train Accelerated Diffraction Solver  
 ### Rigorous Fourier-Space Solution to the 1D Grating Diffraction Problem
 
-This repository provides an implementation supporting the scientific work:
+This repository contains an implementation supporting the paper:
 
 **"Logarithmically complex rigorous Fourier-space solution to the 1D grating diffraction problem"**
 
-The numerical method implemented is the:
+The numerical method implemented in this code is the:
 
 **Tensor-Train Accelerated Generalised Source Method (TTGSM)**
 
 ---
 
+## Overview
+
+Rigorous diffraction modeling is a central problem in computational wave physics and electromagnetics.  
+This repository focuses on the numerical solution of the **1D grating diffraction problem** using a **Fourier-space formulation** accelerated through **tensor-train decomposition**.
+
+The implemented approach is designed to provide:
+
+- rigorous Fourier-space resolution
+- reduced computational complexity
+- efficient large-scale harmonic treatment
+- reproducible scientific computation
+
+---
+
+## Method
+
+The core method implemented here is the:
+
+### Tensor-Train Accelerated Generalised Source Method (TTGSM)
+
+This approach combines:
+
+- the **Generalised Source Method**
+- a **rigorous Fourier-space formulation**
+- **tensor-train compression**
+- efficient numerical treatment of large diffraction systems
+
+The objective is to reduce computational cost while preserving the accuracy required for rigorous diffraction analysis.
+
+---
+
 ## Scientific Context
 
-Rigorous diffraction modeling is a fundamental problem in computational electromagnetics and wave physics.  
-Accurate simulation of diffraction by periodic structures is critical in:
+The simulation of diffraction by periodic structures is relevant in many scientific and engineering domains, including:
 
 - photonics
 - optical engineering
-- metamaterials
 - wave propagation
-- electromagnetic scattering
-- spectral numerical methods
+- metamaterials
+- computational electromagnetics
+- spectral numerical analysis
 
-This repository focuses on the numerical resolution of the:
+This repository is therefore positioned at the intersection of:
 
-1D periodic grating diffraction problem
-
-using a Fourier-space formulation accelerated via tensor decomposition.
-
----
-
-## Method Implemented
-
-### Tensor-Train Accelerated Generalised Source Method
-
-The TTGSM combines:
-
-- Generalised Source Method
-- Fourier spectral formulation
-- Tensor-Train compression
-- logarithmic computational complexity scaling
-
-Key advantages:
-
-- reduced memory footprint
-- improved numerical scalability
-- rigorous spectral accuracy
-- efficient handling of large harmonic expansions
+- computational physics
+- numerical methods
+- Fourier spectral methods
+- wave-structure interaction
 
 ---
 
-## Mathematical Framework
+## Main Features
 
-The solver operates in Fourier space and solves the diffraction problem using:
-
-Maxwell-type wave equations
-
-spectral decomposition
-
-tensor-train representation
-
-iterative linear solvers
-
-The method achieves:
-
-logarithmic complexity growth
-
-instead of quadratic or cubic scaling typical of classical solvers.
+- Rigorous treatment of the **1D grating diffraction problem**
+- Fourier-space numerical formulation
+- Tensor-train accelerated operator representation
+- Reduced computational complexity
+- Reproducible implementation supporting scientific research
 
 ---
 
 ## Repository Structure
+
+```text
+.
+├── src/            # Core numerical implementation
+├── examples/       # Example scripts and test cases
+├── results/        # Numerical outputs, plots, figures
+├── docs/           # Additional notes, derivations, explanations
+├── paper/          # Associated publication or reference material
+└── README.md
