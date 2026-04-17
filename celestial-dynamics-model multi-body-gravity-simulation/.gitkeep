@@ -1,0 +1,90 @@
+# N-Body Gravitational Simulation  
+### Numerical Modeling of Multi-Body Gravitational Dynamics
+
+This repository contains a numerical simulation of an **N-body gravitational system**, modeling the motion of interacting particles under mutual gravitational forces.
+
+The project focuses on solving the classical **Newtonian gravitational problem** using numerical integration methods to simulate the evolution of dynamical systems over time.
+
+---
+
+## Scientific Context
+
+The N-body problem is a fundamental problem in physics and applied mathematics.
+
+It describes the motion of multiple interacting bodies governed by gravitational forces.
+
+This problem appears in:
+
+- astrophysics
+- orbital mechanics
+- celestial dynamics
+- planetary system modeling
+- space mission trajectory design
+- dynamical systems research
+
+Understanding N-body dynamics allows scientists and engineers to:
+
+- predict orbital motion
+- study system stability
+- analyze gravitational interactions
+- simulate planetary formation
+- model galaxy dynamics
+
+---
+
+## Physical Model
+
+The simulation is based on Newton's law of gravitation:
+
+F = G * m₁ * m₂ / r²
+
+and Newton's second law of motion:
+
+F = m * a
+
+Each particle experiences gravitational forces from all other particles in the system.
+
+The total acceleration is computed by summing pairwise interactions.
+
+---
+
+## Numerical Method
+
+The simulation uses:
+
+- numerical time integration
+- pairwise force computation
+- position and velocity updates
+- iterative time stepping
+
+Typical methods include:
+
+- Euler method
+- Verlet integration
+- Leapfrog integration
+- Runge–Kutta methods
+
+The simulation computes:
+
+- particle trajectories
+- velocity evolution
+- system dynamics
+- energy behavior
+
+---
+
+## Repository Structure
+
+```text
+n-body-gravitational-simulation/
+
+README.md
+
+nbody.py
+
+simulation.py
+
+requirements.txt
+
+results/
+    trajectory_plot.png
