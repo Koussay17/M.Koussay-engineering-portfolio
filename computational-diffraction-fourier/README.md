@@ -70,15 +70,4 @@ This repository is therefore positioned at the intersection of:
 - Reduced computational complexity
 - Reproducible implementation supporting scientific research
 
----
 
-## Repository Structure
-
-```text
-.
-├── src/            # Core numerical implementation
-├── examples/       # Example scripts and test cases
-├── results/        # Numerical outputs, plots, figures
-├── docs/           # Additional notes, derivations, explanations
-├── paper/          # Associated publication or reference material
-└── README.md
