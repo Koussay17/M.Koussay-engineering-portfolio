@@ -1,240 +1,247 @@
 # Koussay Mansouri — Aerospace & Theoretical Engineering Portfolio
 
-Academic portfolio oriented toward aerospace engineering, theoretical physics, advanced fluid mechanics, thermal sciences, structural mechanics, and physics-based numerical simulation.
+Academic and research-oriented portfolio focused on aerospace engineering, theoretical physics, fluid mechanics, thermodynamics, structural mechanics, and physics-based numerical simulation.
 
-## Scientific Positioning
+This repository gathers scientific and engineering work developed through a strong foundation in:
 
-This repository gathers academic work developed through a strong foundation in mathematics, physics, continuum mechanics, fluid mechanics, thermal sciences, structural dynamics, and aerospace-oriented engineering analysis.
+- Mathematics and continuum mechanics  
+- Fluid mechanics and thermodynamics  
+- Structural mechanics and dynamics  
+- Heat transfer and energy systems  
+- Computational physics and numerical simulation  
+- Aerospace-oriented physical modeling  
+
+The objective of this portfolio is to demonstrate rigorous physical reasoning, mathematical modeling capability, and scientific computing competence in complex engineering and physics systems.
+
+---
+
+# Scientific Positioning
 
 My academic profile is built around:
 
-- Aerospace-oriented fluid mechanics
-- Theoretical and applied physics
-- Compressible, rotational, irrotational and viscous flows
-- Thermodynamics, thermotechnics and heat transfer
-- Structural mechanics and dynamics
-- FEM, CFD and scientific simulation
-- Instrumentation, physical measurement and systems interpretation
+- Aerospace-oriented fluid mechanics  
+- Theoretical and applied physics  
+- Compressible, rotational, irrotational and viscous flows  
+- Thermodynamics and heat transfer  
+- Structural mechanics and system dynamics  
+- Finite Element Method (FEM)  
+- Computational Fluid Dynamics (CFD)  
+- Scientific computing and numerical methods  
+- Physical measurement and system interpretation  
 
-## Portfolio Architecture
-
-### Theoretical Physics & Cosmology
-- [Cosmological Bounce in String Quantum Gravity](./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf.pdf)
-
-Advanced theoretical work on cosmological singularity resolution, string-inspired quantum gravity, T-duality, effective string actions, and non-singular bounce cosmology.
-
-### Aerospace Flow Physics
-- [Cylinder Wake – Aerodynamic Coefficients](./aerospace-flow-physics/cylinder-wake-aerodynamic-coefficients.pdf.pdf)
-- [Nozzle Study](./aerospace-flow-physics/nozzle-study.pdf.pdf)
-- [Singular Pressure Losses and Flow Measurement](./advanced-fluid-thermal-sciences/singular-pressure-losses-and-flow-measurement.pdf.pdf)
-- [High-Lift Devices / Flaps](./aerospace-flow-physics/high-lift-devices-flaps.pdf.pdf)
-
-### Advanced Fluid & Thermal Sciences
-- [Transition to Turbulence and Friction Factor](./advanced-fluid-thermal-sciences/transition-to-turbulence-and-friction-factor.pdf.pdf)
-- [Crossflow Heat Exchangers](./advanced-fluid-thermal-sciences/crossflow-heat-exchangers.pdf.pdf)
-- [Savonius Rotor – Dimensional Analysis and CFD Reproduction](./advanced-fluid-thermal-sciences/dimensional-analysis-similitude-savonius-rotor.pdf.pdf)
-
-### Dynamics, Control & Physical Systems
-- [Automatic Control – Home I/O / Simulink](./dynamics-control-physical-systems/automatic-control-homeio-simulink.pdf.pdf)
-- [Interdistance Regulation](./dynamics-control-physical-systems/interdistance-regulation.pdf.pdf)
-
-### Energetics, Fields & Measurement Systems
-- [Three-Phase Measurements and Energy Assessment](./energetics-fields-measurement-systems/three-phase-measurements-energy-assessment.pdf.pdf)
-
-### Signals, Communication & Applied Physical Investigation
-- [Telecommunication ESE Project](./signals-communication-physical-investigation/telecommunication-ese-project.pdf.pdf)
-
-### Solid Mechanics & Geometric Reasoning
-- [Cone Revolution](./solid-mechanics-geometric-reasoning/cone-revolution.pdf.pdf)
-- [Rolling Mobile](./solid-mechanics-geometric-reasoning/rolling-mobile.pdf.pdf)
-- [Bicone Experiment](./solid-mechanics-geometric-reasoning/bicone-experiment.pdf.pdf)
-
-### Scientific Computing & Numerical Methods
-- [Polynomial Interpolation](./scientific-computing-numerical-methods/polynomial-interpolation.ipynb)
-- [Iterative Methods](./scientific-computing-numerical-methods/iterative-methods.ipynb)
-- [Linear Systems Resolution](./scientific-computing-numerical-methods/linear-direct-systems-methods.ipynb)
+This portfolio reflects a physics-grounded engineering mindset focused on understanding the structure, stability, and dynamics of complex physical systems.
 
 ---
 
-## ✦ Featured Theoretical Physics Work
+# Portfolio Architecture
 
-# Cosmological Bounce in String Quantum Gravity
-
-> Research-oriented theoretical work on non-singular early-universe cosmology, string-inspired quantum gravity, T-duality, effective string actions, and high-curvature dynamics.
-
-This paper studies a central problem in theoretical cosmology: the classical Big Bang picture leads to an initial singularity, meaning that curvature and density diverge and the classical description breaks down.  
-The objective of this work is to investigate whether this singular origin can be replaced by a **non-singular cosmological bounce** in a **string-inspired quantum-gravity framework**, where the Universe passes from contraction to expansion through a regulated high-curvature phase rather than an infinite breakdown. 
-
-The work is structured around the following theoretical ingredients:
-- effective string cosmology,
-- T-duality,
-- dilaton dynamics,
-- α′ high-curvature corrections,
-- modified cosmological equations,
-- proper-time deformation through the bounce. 
-
-### ✦ What is actually studied
-
-This work does **not** merely restate general cosmology.  
-It focuses on a precise theoretical question:
-
-- how to encode string-inspired corrections into cosmological dynamics,
-- how the dilaton modifies the evolution,
-- how the corrected equations avoid a singular behavior,
-- and how the notion of proper time changes across the bounce regime.
-
-In other words, the paper studies a cosmological model in which the earliest phase of the Universe is governed not only by classical expansion laws, but by a corrected effective dynamics capable of regularizing the transition itself. 
----
-
-## ✦ Core Equations of the Work
-
-### 1. Effective string action with high-curvature corrections
-
-$$
-S_{\mathrm{eff}}=
-\frac{1}{2\kappa^2}
-\int d^4x\,\sqrt{-g}\,e^{-2\Phi}
-\left[
-R
-+4(\nabla\Phi)^2
--\frac{1}{12}H^2
-+\frac{\alpha'}{4}\mathcal{R}^2
-+\mathcal{O}(\alpha'^2)
-\right]
-$$
-
-This is the central theoretical starting point of the work.  
-It describes an effective cosmological model where curvature, the dilaton field, and string-scale corrections all contribute to the dynamics. The crucial point is that the α′ sector introduces high-curvature corrections that become relevant near the bounce. 
+The repository is structured into scientific domains corresponding to core engineering and physics disciplines.
 
 ---
 
-### 2. Cosmological background used in the model
+## Theoretical Physics & Cosmology
 
-$$
-ds^2 = -dt^2 + a(t)^2\,d\vec{x}^{\,2}
-$$
+- Cosmological Bounce in String Quantum Gravity  
 
-The model is then specialized to a flat homogeneous and isotropic cosmological background.  
-The function \(a(t)\) is the scale factor, and it controls the global contraction/expansion behavior of the Universe. 
----
+Advanced theoretical work on:
 
-### 3. Variables used to rewrite the dynamics
+- singularity resolution in cosmology  
+- string-inspired quantum gravity  
+- dilaton dynamics  
+- high-curvature corrections  
+- non-singular bounce cosmology  
 
-$$
-\lambda(t)=\ln a(t),
-\qquad
-H=\dot\lambda=\frac{\dot a}{a},
-\qquad
-\bar{\Phi}(t)=\Phi(t)-3\lambda(t)
-$$
-
-These variables are introduced to express the cosmological system in a compact and physically interpretable way.  
-The Hubble parameter \(H\) tracks the expansion rate, while the shifted dilaton Φ̄ packages the coupling between geometry and dilaton evolution.
----
-
-### 4. Corrected cosmological equations
-
-$$
--\dot{\bar{\Phi}}^{\,2}+6H^2+\alpha'c_1H^4+\alpha'c_2H^2\dot{\bar{\Phi}}^{\,2}=0
-$$
-
-$$
-\ddot{\bar{\Phi}}+\dot{\bar{\Phi}}^{\,2}-3H^2+\alpha'c_3H^2\left(3H^2+\dot{\bar{\Phi}}^{\,2}\right)=0
-$$
-
-These are the main corrected evolution equations of the work.  
-The first is the effective constraint equation.  
-The second governs the evolution of the shifted dilaton.  
-The key feature is that the \(\alpha'\)-dependent nonlinear terms modify the classical high-curvature behavior and open the door to a non-singular bounce.
----
-
-### 5. Tree-level limit of the system
-
-$$
-\dot{\bar{\Phi}}^{\,2}=6H^2
-$$
-
-$$
-\ddot{\bar{\Phi}}+\dot{\bar{\Phi}}^{\,2}=3H^2
-$$
-
-These equations correspond to the lower-order regime before the full high-curvature corrections dominate.  
-They help show what the uncorrected string cosmology would look like, and therefore what is genuinely changed by the corrected dynamics.
+This work studies how modified cosmological dynamics can replace the classical Big Bang singularity with a mathematically consistent transition between contraction and expansion.
 
 ---
 
-### 6. Proper-time dilation relation
+## Aerospace Flow Physics
 
-$$
-d\tau = e^{-\Phi/2}\,dt
-$$
+Topics covered:
 
-This is one of the most interesting physical relations in the work.  
-It expresses the difference between the cosmological time parameter \(t\) and the Einstein-frame proper time τ.  
-Near the bounce, the evolution of the dilaton modifies the rate at which physical time flows, which gives a physically meaningful interpretation of the bounce beyond geometry alone.
----
+- Aerodynamic wake analysis  
+- Nozzle flow behavior  
+- High-lift aerodynamic devices  
+- Pressure losses and flow measurement  
 
-### 7. Compact form of the bounce constraint
+Focus areas:
 
-$$
--\dot\Phi^2 + 6H\dot\Phi - 3H^2
-+\frac{\alpha'}{2}\left(a_1 H^4 + a_2 H^2 \dot\Phi^2\right)=0
-$$
-
-This compact form makes the competition between expansion, dilaton evolution, and high-curvature corrections especially clear.  
-It condenses the structure of the bounce mechanism into a single expression: the corrected dynamics are no longer purely Einsteinian, and the singular regime can be regularized.
----
-
-## ✦ Physical Interpretation
-
-The logic of the paper is not to add corrections arbitrarily, but to show that a coherent string-inspired effective theory naturally modifies the cosmological equations at high curvature.  
-The physical picture is the following:
-
-- the classical singular regime is not accepted as final,
-- the effective dynamics are corrected by string-scale contributions,
-- the dilaton becomes dynamically relevant,
-- time itself is no longer trivially identified across frames,
-- and the contraction-to-expansion transition becomes mathematically describable without infinite breakdown. 
-
-This makes the work a genuinely research-oriented study in:
-- theoretical cosmology,
-- gravitational physics,
-- effective string dynamics,
-- and mathematically grounded early-universe modeling. 
+- compressible flow behavior  
+- aerodynamic coefficient estimation  
+- boundary-layer reasoning  
+- propulsion-related flow analysis  
 
 ---
 
-## ✦ Why this work stands out in the portfolio
+## Advanced Fluid & Thermal Sciences
 
-This paper marks a clear shift from advanced engineering coursework toward **theoretical physics research-style reasoning**.  
-It combines:
-- abstract theoretical structure,
-- action-based modeling,
-- nontrivial cosmological interpretation,
-- string-inspired corrections,
-- and a physically meaningful treatment of the singularity problem.
-[Read the paper](./theoretical-physics-cosmology/cosmological-bounce-in-string-quantum-gravity.pdf.pdf)
+Topics covered:
+
+- Turbulence transition and friction factor behavior  
+- Heat exchanger performance  
+- Dimensional analysis and similitude  
+- CFD-based flow reproduction  
+
+Focus areas:
+
+- thermodynamics  
+- heat transfer  
+- fluid system efficiency  
+- engineering scaling laws  
 
 ---
 
-## Main Theoretical Axes
+## Dynamics, Control & Physical Systems
 
-- Continuum mechanics
-- Solid and structural mechanics
-- Ideal and viscous fluid mechanics
-- Compressible-flow reasoning
-- Boundary layer and turbulence
-- Thermodynamics and heat transfer
-- Turbomachinery and propulsion-oriented analysis
-- Finite Element Method (FEM)
-- Computational Fluid Dynamics (CFD)
-- Measurement, modeling and physical interpretation
+Topics covered:
 
-## Academic Intent
+- Automatic control systems  
+- Feedback regulation  
+- Dynamic system behavior  
+- Simulation-based control design  
+
+Tools used:
+
+- Simulink  
+- Dynamic modeling  
+- Control theory  
+
+---
+
+## Energetics, Fields & Measurement Systems
+
+Topics covered:
+
+- Three-phase electrical measurements  
+- Energy system evaluation  
+- Physical instrumentation  
+
+Focus areas:
+
+- measurement reliability  
+- system diagnostics  
+- physical interpretation of signals  
+
+---
+
+## Signals, Communication & Physical Investigation
+
+Topics covered:
+
+- Communication system analysis  
+- Signal interpretation  
+- Physical system investigation  
+
+Focus areas:
+
+- signal behavior  
+- communication reliability  
+- system-level reasoning  
+
+---
+
+## Solid Mechanics & Geometric Reasoning
+
+Topics covered:
+
+- Rigid-body motion  
+- Rotational dynamics  
+- Geometric mechanics  
+- Structural behavior  
+
+Focus areas:
+
+- mechanical stability  
+- motion analysis  
+- structural reasoning  
+
+---
+
+## Scientific Computing & Numerical Methods
+
+Topics covered:
+
+- Polynomial interpolation  
+- Iterative numerical methods  
+- Linear system resolution  
+- Numerical stability  
+
+Focus areas:
+
+- algorithmic efficiency  
+- numerical accuracy  
+- computational modeling  
+
+---
+
+# Featured Research Work
+
+## Cosmological Bounce in String Quantum Gravity
+
+This research investigates whether the classical Big Bang singularity can be replaced by a non-singular cosmological transition using string-inspired corrections to gravitational dynamics.
+
+Core concepts:
+
+- effective string cosmology  
+- T-duality  
+- dilaton dynamics  
+- high-curvature corrections  
+- modified cosmological equations  
+
+Scientific objective:
+
+To demonstrate that corrected high-energy dynamics can regulate the classical singularity and produce a physically consistent cosmological bounce.
+
+---
+
+# Core Scientific Skills Demonstrated
+
+- Mathematical modeling  
+- Physical system analysis  
+- Continuum mechanics reasoning  
+- Fluid dynamics and thermodynamics  
+- Structural mechanics  
+- Scientific computing  
+- Numerical simulation  
+- Engineering problem solving  
+- Physics-based system interpretation  
+
+---
+
+# Tools and Methods
+
+Mathematical and computational tools used in this portfolio include:
+
+- Python  
+- MATLAB / Simulink  
+- Numerical methods  
+- Scientific computing  
+- CFD reasoning  
+- FEM reasoning  
+- Physical modeling  
+
+---
+
+# Academic Intent
 
 This portfolio is not limited to software usage or laboratory execution.
-It reflects a physics-grounded engineering mindset focused on understanding the mathematical and physical structure of complex systems, especially in aerospace and multiphysics environments.
 
-## Author
+It reflects:
 
-**Koussay Mansouri**
+- deep physical reasoning  
+- mathematical rigor  
+- modeling discipline  
+- engineering interpretation  
+
+The objective is to demonstrate the ability to understand, model, and analyze complex physical systems in aerospace, multiphysics, and scientific computing environments.
+
+---
+
+# Author
+
+Koussay Mansouri
+
+Aerospace and Theoretical Engineering  
+Scientific Computing  
+Fluid Mechanics  
+Computational Physics
