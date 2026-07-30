@@ -101,7 +101,7 @@ bounce is a **string effect**, quantifiably.
 **What is not done.** $F$ is postulated, not derived from amplitudes.
 Perturbations are not computed. A radiation-dominated contraction is unstable
 to anisotropy — quantified in the companion notebook: the initial shear must
-satisfy $(\sigma^2/\kappa^2\rho)_{\rm init}\lesssim10^{-9}$.
+satisfy $(\sigma^2/\kappa^2\rho)_{\mathrm{init}}\lesssim10^{-9}$.
 
 **Companion: `Carnet de calculs`** — 31 pages rebuilding everything from
 manifolds and connections. Levi-Civita existence *and* uniqueness, Palatini,
@@ -127,7 +127,7 @@ particle code reproduce kinetic theory quantitatively?
   principal value is wrong and why it is Laplace, not Fourier, in time.
 - **Penrose's criterion** by the Nyquist argument, in the strong form that also
   gives the marginal wavenumber $k_c=\omega_p\sqrt{\mathcal P}$ with
-  $\mathcal P=\int[f_0(v)-f_0(v_m)](v-v_m)^{-2}\dd v$.
+  $\mathcal P=\int[f_0(v)-f_0(v_m)](v-v_m)^{-2}\mathrm{d}v$.
 - **Cold beams solved exactly** — the dispersion relation reduces to a
   biquadratic: unstable for $kv_0<\omega_p$, with
   $\gamma_{\max}=\omega_p/(2\sqrt2)$ at $kv_0/\omega_p=\sqrt{3/8}$.
@@ -232,7 +232,7 @@ of the molecular physics?
   $\sum_iw_ic_{i\alpha}c_{i\beta}c_{i\gamma}c_{i\delta}=c_s^4(\delta\delta+\text{perm})$
   is *exactly* what makes the stress tensor isotropic.
 - The $-\tfrac12$ comes from **trapezoidal integration** of the collision term
-  plus the change of variable $\bar f_i=f_i+\frac{\Delta t}{2\tau}(f_i-f^{\rm eq}_i)$.
+  plus the change of variable $\bar f_i=f_i+\frac{\Delta t}{2\tau}(f_i-f^{\mathrm{eq}}_i)$.
 
 ```
 lattice checks    Σw = 1.000000000000000     Σw c_x² = 0.333333333333333
@@ -311,7 +311,7 @@ rotation. What exactly can be proved about it?
 **Four theorems, one identity.** Everything follows from multiplying the
 Rayleigh equation by $\varphi^*/(U-c)$ and integrating:
 
-$$\int\big(|\varphi'|^2+k^2|\varphi|^2\big)\dd y+\int\frac{U''}{U-c}|\varphi|^2\dd y=0$$
+$$\int\big(|\varphi'|^2+k^2|\varphi|^2\big)\mathrm{d}y+\int\frac{U''}{U-c}|\varphi|^2\mathrm{d}y=0$$
 
 | theorem | content |
 |---|---|
@@ -320,9 +320,9 @@ $$\int\big(|\varphi'|^2+k^2|\varphi|^2\big)\dd y+\int\frac{U''}{U-c}|\varphi|^2\
 | **Fjørtoft** | real part + Rayleigh's null term ⟹ vorticity max must be interior |
 | **Howard** | $F=\varphi/(U-c)$ and $(U-U_{\min})(U-U_{\max})\le0$ ⟹ semicircle |
 
-**The exact solution.** For $U=\tanh y$: $\varphi=\operatorname{sech} y$ at
+**The exact solution.** For $U=\tanh y$: $\varphi=\mathrm{sech}\,y$ at
 $k=1$, $c=0$ solves the Rayleigh equation exactly (three lines, via
-$\tanh^2=1-\operatorname{sech}^2$).
+$\tanh^2=1-\mathrm{sech}^2$).
 
 ```
 analytic residual of the exact neutral mode        5.6 × 10⁻¹⁷
@@ -384,9 +384,9 @@ If $\widetilde H$ were merely formal, nothing would force its variation to be
 
 | $E$ | orbit 1 | orbit 2 | orbit 3 |
 |---|---|---|---|
-| $E_{\rm esc}/2$ | $-0.00000$ | $+0.00003$ | $+0.00051$ |
-| $3E_{\rm esc}/4$ | $-0.00000$ | $+0.00002$ | $\mathbf{+0.03495}$ |
-| $E_{\rm esc}$ | $+0.06759$ | $+0.10835$ | $+0.13647$ |
+| $E_{\mathrm{esc}}/2$ | $-0.00000$ | $+0.00003$ | $+0.00051$ |
+| $3E_{\mathrm{esc}}/4$ | $-0.00000$ | $+0.00002$ | $\mathbf{+0.03495}$ |
+| $E_{\mathrm{esc}}$ | $+0.06759$ | $+0.10835$ | $+0.13647$ |
 
 **There is no critical energy.** At the same energy some orbits sit on tori and
 others in the stochastic sea — phase space is *mixed*, and the chaotic fraction
@@ -576,7 +576,7 @@ fitted parameter.
 | 04 | LBM viscosity | $c_s^2(\tau-\tfrac12)$ | 8 values of $\tau$ | **0.156 %** |
 | 04 | spatial convergence | order 2 | ratios | **4.04 · 4.04 · 3.98** |
 | 05 | energy balance | $R+T=1$ | lossless metal | **1.000000000000** |
-| 06 | exact neutral mode | $\operatorname{sech}y$ at $k=1$ | residual | **5.6 × 10⁻¹⁷** |
+| 06 | exact neutral mode | $\mathrm{sech}\,y$ at $k=1$ | residual | **5.6 × 10⁻¹⁷** |
 | 06 | max growth rate | $0.1897$ at $0.4446$ | $0.189701$ at $0.444939$ | **0.00 % / 0.08 %** |
 | 07 | modified Hamiltonian | order $\Delta t^4$ | fitted order | **4.00** |
 | 07 | angular momentum | exact | drift | **8.6 × 10⁻¹⁴** |
